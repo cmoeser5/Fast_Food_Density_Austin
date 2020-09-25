@@ -32,5 +32,4 @@ df_austin[[“Lat”, “Lng”]] = df_austin.GeoLocation.apply(
 df_austin[[“Lat”]] = df_austin.Lat.apply(lambda x: pd.Series(x[1:]))
 df_austin[[“Lng”]] = df_austin.Lng.apply(lambda x: pd.Series(x[:-1]))
 df_austin
-8:57
 df_austin.to_csv(“Data/cleaned_diabetes_cdc.csv”)
