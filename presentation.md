@@ -51,3 +51,7 @@ Blank
 
 ### Analysis
 No strong statistical correlation between health outcomes of obesity and diabetes to fast food proximity.
+
+
+
+
