@@ -36,3 +36,18 @@ Blank
 * Plotly
 * Matplotlib
 * GeoPandas
+
+### Actions and Tasks:
+* Data Extraction
+* Data Cleaning and Exploration
+* Data Visualization
+* Analysis and Conclusions
+
+### Notebooks:
+[Clean Code for CDC and ACS](https://github.com/zlinguist/project1/tree/master/Cleaning_Code)
+[Clean Code fo Google API](https://github.com/zlinguist/project1/blob/master/google_api.ipynb)
+[Clean CDC, ACS, and Google API CSV](https://github.com/zlinguist/project1/blob/master/Data/mrgdata_food.csv)
+
+
+### Analysis
+No strong statistical correlation between health outcomes of obesity and diabetes to fast food proximity.
