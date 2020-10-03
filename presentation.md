@@ -91,5 +91,4 @@ Austin Streetline: https://data.austintexas.gov/Locations-and-Maps/Street-Center
 
 Format: ![Alt Text](https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Median%20Income%20Census%20Tract.png)
 
-
 ### Team Memebers: Akik Patel, Caroline Moeser, Jayeeta Dasmunshi, Kasmira Madina, Natalia Saavedra, Zach Childers 
