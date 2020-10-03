@@ -58,37 +58,43 @@ Austin Streetline: https://data.austintexas.gov/Locations-and-Maps/Street-Center
 
 ### Analysis & Conclusions:
 * Median Income of census tacts that are west of IH-35 is higher and most census tracts on east.
-(https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Median%20Income%20Census%20Tract.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Median%20Income%20Census%20Tract.png)
 
 * Number of FF restaurants are mainly clustered around downtown and UT area, though places like Riverside, Domain and MLK shows signs of restaurant clustering
-(https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Number%20of%20Fast%20Food%20in%20Census%20Tract.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Number%20of%20Fast%20Food%20in%20Census%20Tract.png)
 
 * Fast food density was found to be negatively correlated with median income of a census tract in a linear regression. However, the highest positive correlations with fast food density were found to occur for the middle income groups, rather than for the lowest income groups.
  - The correlation between White Population and number of fast food restaurants is -0.14
  - The correlation between Black or African American Population and number of fast food restaurants is 0.01
  - The correlation between percentage of Income $75,999 to $99,999 and number of fast food restaurants is 0.14
  
-(https://github.com/zlinguist/project1/blob/master/FF_Race_Income/med_inc_v_fast_food.jpg)
-(https://github.com/zlinguist/project1/blob/master/FF_Race_Income/med_inc_v_black.jpg)
-(https://github.com/zlinguist/project1/blob/master/FF_Race_Income/med_inc_v_white.jpg)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/FF_Race_Income/med_inc_v_fast_food.jpg)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/FF_Race_Income/med_inc_v_black.jpg)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/FF_Race_Income/med_inc_v_white.jpg)
 
-* There is a higher amount of fast food restaurants in census tracts with a higher percentage of middle-class income in Austin. (https://github.com/zlinguist/project1/blob/master/Images_Natalia/plot1.png)
-(https://github.com/zlinguist/project1/blob/master/Images_Natalia/plot2.png)
-(https://github.com/zlinguist/project1/blob/master/Images_Natalia/newplot%20(1).png)
+* There is a higher amount of fast food restaurants in census tracts with a higher percentage of middle-class income in Austin. 
 
-* No strong statistical correlation between health outcomes of obesity and diabetes to fast food proximity.(https://github.com/zlinguist/project1/blob/master/food_den_disease/food_den_health.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/Images_Natalia/plot1.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/Images_Natalia/plot2.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/Images_Natalia/newplot%20(1).png)
 
-* No statistical correlation can be shown when looking at income and health factors (Cholesterol, Diabetes, Obesity and Blood Pressure). 
-(https://github.com/zlinguist/project1/blob/master/Income_Illness/Cholesterol_income.png)
-(https://github.com/zlinguist/project1/blob/master/Income_Illness/Diabetes_income.png)
-(https://github.com/zlinguist/project1/blob/master/Income_Illness/Obesity_levels_income.png)
-(https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Blood%20Pressure%20in%20Census%20Tract.png)
-(https://github.com/zlinguist/project1/blob/master/Income_Illness/Blood_pressure_income.png)
+* No strong statistical correlation between health outcomes of obesity and diabetes to fast food proximity.
+
+![Alt Text](https://github.com/zlinguist/project1/blob/master/food_den_disease/food_den_health.png)
+
+* No statistical correlation can be shown when looking at income and health factors (Cholesterol, Diabetes, Obesity and Blood Pressure).
+
+![Alt Text](https://github.com/zlinguist/project1/blob/master/Income_Illness/Cholesterol_income.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/Income_Illness/Diabetes_income.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/Income_Illness/Obesity_levels_income.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Blood%20Pressure%20in%20Census%20Tract.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/Income_Illness/Blood_pressure_income.png)
 
 * The conclusion drawn from the data set that has been used is that Diabetes is more with higher education within the female population.
-(https://github.com/zlinguist/project1/blob/master/EDU_Hlth_FF/plot4.png)
-(https://github.com/zlinguist/project1/blob/master/EDU_Hlth_FF/plot5.png)
 
-Format: ![Alt Text](https://github.com/zlinguist/project1/blob/master/mapping_resources/images/Median%20Income%20Census%20Tract.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/EDU_Hlth_FF/plot4.png)
+![Alt Text](https://github.com/zlinguist/project1/blob/master/EDU_Hlth_FF/plot5.png)
+
+
 
 ### Team Memebers: Akik Patel, Caroline Moeser, Jayeeta Dasmunshi, Kasmira Madina, Natalia Saavedra, Zach Childers 
