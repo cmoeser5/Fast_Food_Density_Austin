@@ -4,7 +4,6 @@
 * How does income influence fast food restaurant availabilty?
 * What is the correlation between proximity of fast food and health issues?
 * What is the correlation between income level and health issues?
-* Is there any correlation between education levels and health issues?
 * How does race relate to the factors of income and fast food availabilty?
 
 ### Hypothesis:
