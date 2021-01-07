@@ -52,7 +52,6 @@ Individuals in low income brackets, low education levels and poor health conditi
 
 * There is a higher amount of fast food restaurants in census tracts with a higher percentage of middle-class income in Austin. 
 
-![Alt Text](https://github.com/zlinguist/project1/blob/master/Images_Natalia/plot1.png)
 ![Alt Text](https://github.com/zlinguist/project1/blob/master/Images_Natalia/plot2.png)
 ![Alt Text](https://github.com/zlinguist/project1/blob/master/Images_Natalia/newplot%20(1).png)
 
@@ -63,8 +62,6 @@ Individuals in low income brackets, low education levels and poor health conditi
 * No statistical correlation can be shown when looking at income and health factors (Cholesterol, Diabetes, Obesity and Blood Pressure).
 
 ![Alt Text](mapping_resources/images/Blood_Pressure_in_Census_Tract.png)
-
-
 
 
 ### Data Set:
@@ -89,5 +86,5 @@ Census Tracts: https://data.austintexas.gov/Locations-and-Maps/Census-Tracts-201
 
 Austin Streetline: https://data.austintexas.gov/Locations-and-Maps/Street-Centerline/m5w3-uea6
 
-
+----
 Team Memebers: Akik Patel, Caroline Moeser, Jayeeta Dasmunshi, Kasmira Madina, Natalia Saavedra, Zach Childers 
